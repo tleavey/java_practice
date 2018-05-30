@@ -1,5 +1,7 @@
 // Tim Leavey
 // Connects to Server.java
+// Creates threads that 'hack' into the open port
+// Uses a wordbank to crack the password on open port
 
 import java.io.*;
 import java.net.*;
